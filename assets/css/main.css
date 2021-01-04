@@ -1,0 +1,14 @@
+#particles-js {
+	height: 100vh;
+	display: flex; 
+	align-items: center; 
+	justify-content: center;
+	flex-wrap: wrap;
+	align-content: center;
+}
+    
+    #particles-js .particles-js-canvas-el {
+        height: 100vh!important
+    }
+    
+    
