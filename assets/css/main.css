@@ -7,8 +7,18 @@
 	align-content: center;
 }
     
-    #particles-js .particles-js-canvas-el {
-        height: 100vh!important
-    }
-    
+#particles-js .particles-js-canvas-el {
+    height: 100vh!important
+}
+
+.content {
+	z-index: 1;
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: 0 auto;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%)
+}
     
