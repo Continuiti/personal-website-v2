@@ -207,10 +207,11 @@ body {
 /*------SECTION INIT------*/
 /*------------------------*/
 section {
-	display: block;
-	min-height: 100vh;
 	display: flex;
-	justify-content: center;
+	min-height: 100vh;
+	flex-direction: column;
+    align-content: center;
+    align-items: center;
 }
 
 .section-title{
