@@ -329,3 +329,25 @@ section {
 .courses li{
 	line-height: 1.5;
 }
+
+
+
+/*------------------------*/
+/*--------ABOUT ME--------*/
+/*------------------------*/
+.project-list{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.project-box{
+	width: 325px;
+	height: 325px;
+	margin: 30px;
+}
+
+.project-img{
+	width: 300px;
+	height: 300px;
+}
