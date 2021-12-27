@@ -237,11 +237,9 @@ section {
 
 .about_item{
 	margin: 20px;
+	height: 480px;
 }
 
-.profile-image{
-	height: 420px;
-}
 /*------------------------*/
 /*--------EDUCATION-------*/
 /*------------------------*/
