@@ -248,6 +248,44 @@ section {
 /*--------EDUCATION-------*/
 /*------------------------*/
 #education{
-	background-color: #454545;
+	background-color: #4d5158;
 	color: #fff;
+}
+
+#education-section-content{
+	top: 50%;
+	left: 50%;
+}
+
+#school-info {	
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#school-info img {
+	margin-block: auto;
+	width: 130px;
+	height: 130px;
+}
+
+#student-info {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+#student-info h2,h3,h4{
+	text-align: left;
+	color: #fff;
+	line-height: 5px;
+	margin-left: 12px;
+	padding-top: 0px;
+	font-weight: 400;
+}
+
+.courses{
+	margin-bottom: 35px;
+}
+
+.courses li{
+	line-height: 1.5;
 }
