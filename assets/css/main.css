@@ -218,7 +218,7 @@ section {
 	font-weight: 400;
 	font-size: 42px;
 	text-align: center;
-	margin-top: 0px;
+	margin: 0px;
 }
 
 
@@ -230,8 +230,18 @@ section {
 	background-color: #f2f2f2;
 }
 
+#about_bio{
+	display: flex;
+	align-items: center;
+}
 
+.about_item{
+	margin: 20px;
+}
 
+.profile-image{
+	height: 420px;
+}
 /*------------------------*/
 /*--------EDUCATION-------*/
 /*------------------------*/
