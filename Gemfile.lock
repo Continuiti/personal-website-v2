@@ -257,6 +257,7 @@ GEM
     zeitwerk (2.4.1)
 
 PLATFORMS
+  universal-darwin-21
   x64-mingw32
   x86_64-linux
 
@@ -264,4 +265,4 @@ DEPENDENCIES
   github-pages
 
 BUNDLED WITH
-   2.2.5
+   2.3.19
