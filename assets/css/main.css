@@ -170,6 +170,10 @@ body {
 	content: "\f0e0"
 }
 
+.fa-instagram:before {
+	content: "\f16d"
+}
+
 .fa-linkedin-square:before {
 	content: "\f08c"
 }
